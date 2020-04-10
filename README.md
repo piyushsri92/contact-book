@@ -22,3 +22,6 @@ Running the app:
 2. Run 'npm install' to install required dependencies.
 3. Run 'ng serve' from the project directory.
 4. Application will start running on Chrome Browser.
+
+To host an application click on below url:
+https://contact-book-424dd.web.app/
