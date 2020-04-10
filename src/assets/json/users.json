@@ -1,0 +1,16 @@
+[{
+    "id": 1586522120203,
+    "firstName": "Piyush",
+    "lastName": "Srivastava",
+    "email": "piyush@gmail.com",
+    "phNumber": "020266010",
+    "status": "active"
+},
+{
+    "id": 1586522120205,
+    "firstName": "Abhilash",
+    "lastName": "Biswanandan",
+    "email": "abhi@gmail.com",
+    "phNumber": "020234010",
+    "status": "inactive"
+}]
